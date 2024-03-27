@@ -3,6 +3,7 @@
 # Tecnologías
 
 - HTML
+- CSS
 
 # Miembros grupo 19
 
