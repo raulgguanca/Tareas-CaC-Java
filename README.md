@@ -5,7 +5,7 @@
 - HTML
 - CSS
 
-# Miembros grupo 19
+# Miembro grupo 22
 
 - Raul Guanca
 
